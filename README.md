@@ -1,4 +1,4 @@
-# RiseWorks Uptime Monitor
+# Uptime Monitor
 
 monitors https://riseworks.io for uptime by checking HTTP status codes every 15 seconds. Results are logged both to the terminal and to log file.
 
